@@ -90,7 +90,8 @@ while cek:
                 print("Pilihan tidak ada")
 
     elif pil == 0:
-        cek = False
+        cek = False # jika memakai pil sesuai bahan praktikum maka code tidak akan jalan
         print("Program selesai.")
     else:
         print('Pilihan tidak ada')
+
